@@ -1,0 +1,41 @@
+.buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    
+}
+
+.button-watch{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    color: black;
+    gap: 4px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 80px;
+    height: 40px;
+
+}
+
+.button-my-list{
+    display: flex;
+    align-items: center;
+    background-color: #FFFFFF44;
+    color: white;
+    gap: 4px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: auto;
+    height: 40px;
+
+}

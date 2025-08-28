@@ -1,0 +1,125 @@
+.container-details{
+    width: 100vw;
+    height: 100vh;
+
+    background-color: #141414;
+    
+
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.main-details{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.container-info-details{
+    display: flex;
+    background-color: #141414;
+    align-items: top;
+    justify-content: center;
+    
+
+    width: 50vw;
+    height: 100vh;
+}
+
+.up-container-details{
+    display: flex;
+    background-image: linear-gradient(to left, transparent 0%, #141414 99%), url(../Imagens/ivocacao.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow-x: hidden;
+
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.info-details{
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    margin-top: 90px;
+    gap:20px;
+}
+
+.description-details{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    color: white;
+}
+
+.text-details{
+    color: gray;
+    display: flex;
+    flex-direction: column;
+}
+
+.title-details{
+    color:rgba(255, 255, 255, 0.708)
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    
+}
+
+.button-watch{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    color: black;
+    gap: 4px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    width: 80px;
+    height: 40px;
+    
+
+}
+
+.button-my-list{
+    display: flex;
+    align-items: center;
+    background-color: #FFFFFF44;
+    color: white;
+    gap: 4px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    width: auto;
+    height: 40px;
+
+}
+.liked{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    color: white;
+    border: 1px solid white;
+    height: 32px;
+    width: 32px;
+    
+    
+}
