@@ -9,12 +9,12 @@ import SelecaoPerfil from "../Components/SelecaoPerfil";
 function Profile () {
   
   const usuario1 = {
-    nome: 'Guilherme',
+    nome: 'Karol',
     foto: eleven
     
   };
   const usuario2 = {
-    nome: 'Givanildo',
+    nome: 'dry e emilly',
     foto: lacasa
     
   };

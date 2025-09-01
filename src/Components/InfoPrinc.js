@@ -17,8 +17,8 @@ function InfoPrinc(){
             </div>
 
             <div className="title">
-                <span className="nomeFilme1"> Luta Pela Fé </span>
-                <span className="nomeFilme2">A História do Padre Stu</span>
+                <span className="nomeFilme1"> Invocação Do Mal  </span>
+                <span className="nomeFilme2"> Uma família com cinco filhas é aterrorizada por eventos sobrenaturais assustadores. </span>
             </div>
 
             <div className="info">

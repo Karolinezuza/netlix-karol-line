@@ -7,18 +7,18 @@ import CarroselNum from "../Components/CarroselNum";
 import { Link } from "react-router-dom";
 
 //Imagens
-import st from "../Imagens/stranger.jpg";
-import peak from "../Imagens/peak.jpg";
-import suits from "../Imagens/suitscapa.webp";
-import umbrella from "../Imagens/theumbrella.jpg";
-import kingdom from "../Imagens/theking.jpg";
+import st from "../Imagens/grandeinvocacao.jpg";
+import peak from "../Imagens/bedboys.jpg";
+import suits from "../Imagens/branquelas.jpg";
+import umbrella from "../Imagens//greys.jpg";
+import kingdom from "../Imagens/atravez.jpg";
 import lupin from "../Imagens/lupin.jpg";
-import round from "../Imagens/round.jpg";
-import lacasa from "../Imagens/lacasapapel.jpeg";
-import ragnarok from "../Imagens/ragnarok.jpg";
-import prisao from "../Imagens/prisao.webp";
-import narcos from "../Imagens/narcos.jpeg";
-import vadia from "../Imagens/vadia.jpg";
+import round from "../Imagens/sex-education.webp";
+import lacasa from "../Imagens/flex.jpg";
+import ragnarok from "../Imagens/homem.jpg";
+import prisao from "../Imagens/tanos.jpg";
+import narcos from "../Imagens/visavis.jpg";
+import vadia from "../Imagens/inter.jpg";
 
 //--------------------
 //imagens numeradas
