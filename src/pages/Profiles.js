@@ -1,7 +1,7 @@
 import "./Profiles.css";
 
-import eleven from '../Imagens/eleven.jpeg';
-import lacasa from '../Imagens/lacasa.jpeg';
+import eleven from '../Imagens/tiana.jpeg';
+import lacasa from '../Imagens/bob.jpg';
 import kids from '../Imagens/kids.png';
 import adiconar from '../Imagens/+.png';
 import SelecaoPerfil from "../Components/SelecaoPerfil";
